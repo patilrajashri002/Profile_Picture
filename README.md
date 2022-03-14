@@ -1,0 +1,2 @@
+# Profile_Picture
+Profile picture problems Create a component that shows a selected picture in a round frame. Like on phones. There should be an empty round shape at the beginning and a button to set a new pic. On the click of the button, it opens a file browser, allows selecting of jpg files only. Selected files are centered in the circular frame, like a profile picture. No need to adjust the pic, just center it in the circular frame.
